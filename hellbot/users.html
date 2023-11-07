@@ -1,0 +1,14 @@
+---
+layout: default
+title: Users
+---
+
+<h1>Users</h1>
+
+<ul>
+  {% for user in site.users %}
+    <li>
+      <h2><a href="{{ user.url }}">{{ user.name }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
