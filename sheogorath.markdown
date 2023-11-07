@@ -3,7 +3,7 @@ layout: default
 title: Sheogorath
 ---
 
-Yes it is I, Sheogorath.
+Yes it is I, Sheogorath. Behold my artwork!
 
 <h2>Recent Paintings</h2>
 <ul>
@@ -12,3 +12,4 @@ Yes it is I, Sheogorath.
     <li><a href="{{ post.url }}">{{ post.reward }}</a></li>
   {% endfor %}
 </ul>
+
