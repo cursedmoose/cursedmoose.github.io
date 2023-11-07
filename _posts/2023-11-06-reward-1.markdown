@@ -1,0 +1,8 @@
+---
+layout: reward
+category: reward
+date:   2023-11-06 14:55:15 -0800
+author: cursedmoose
+reward: "Hellbot Can Use Obs"
+image: "/assets/images/cursedmoose/Hellbot Can Use Obs.png"
+---
