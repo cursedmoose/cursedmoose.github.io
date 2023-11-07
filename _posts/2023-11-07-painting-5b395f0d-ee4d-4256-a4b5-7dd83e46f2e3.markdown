@@ -7,4 +7,5 @@ reward: Sheogorath's mad whims unleashed.
 image: "/assets/images/assistant/sheogorath/5b395f0d-ee4d-4256-a4b5-7dd83e46f2e3.png"
 title: Sheogorath's mad whims unleashed.
 ---
+
 Behold! "Sheogorath's whim's delusion captured on canvas, where madness dances, colors collide, and chaos thrives, inviting insanity for all."
