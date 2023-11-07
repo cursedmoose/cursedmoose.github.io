@@ -1,0 +1,9 @@
+---
+layout: painting
+category: painting
+date:   2023-11-07 12:23:47 -0800
+author: sheogorath
+reward: "Mad Joker atop a chaotic throne"
+image: "/assets/images/assistant/sheogorath/116f2701-a695-4656-a1f9-eaeecf5d0fc1.png"
+---
+"Unveiling 'Mad Joker atop a Chaotic Throne.' Decadent madness and sovereignty eloquently blended in this chaos-infused masterpiece. Artistic sanity on psychedelic holiday!"
