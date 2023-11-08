@@ -1,9 +1,0 @@
----
-layout: commemoration
-category: commemoration
-date:   2023-11-07 10:39:37 -0800
-author: cursedmoose
-reward: the hellbot website
-image: "/assets/images/user/cursedmoose/1e5b88ab-775b-4b93-b764-e209e73fc5b2.png"
----
-Celebrate Hellbot's online presence with its cutting-edge website, an absolute masterpiece of wickedness, chaos, and unrelenting power. Incredible!

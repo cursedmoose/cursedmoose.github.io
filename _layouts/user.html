@@ -1,0 +1,17 @@
+---
+layout: page
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    {{ content }}
+
+    <h2>Activity</h2>
+    <ul>
+    {% assign filtered_posts = site.posts | where: "author", page.user %}
+    {% for post in filtered_posts %}
+        <li><a href="{{ post.url }}">[{{post.category}}] {{ post.reward }}</a></li>
+    {% endfor %}
+    </ul>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

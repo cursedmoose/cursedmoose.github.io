@@ -2,10 +2,16 @@
 layout: default
 ---
 
+<a href="stream.html"><h1 class="page-heading">Watch Live Here?</h1></a>
+
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+
+  <a href="https://www.twitch.tv/cursedmoose"><p>Or go directly to Twitch</p></a>
+
 
   {{ content }}
 
@@ -20,12 +26,19 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {%- if post.category == "reward" -%}
                 {{post.author}} claimed "{{ post.reward | escape }}"
+                <div>
+                  <span class="post-meta">a huge waste of {{post.cost}} sweet rolls</span>
+                </div>
+            {% elsif post.category == "painting" %}
+                [{{post.author | capitalize }}]: {{post.reward | escape}}
+            {% elsif post.category == "commemoration" %}
+                Remembering {{post.reward | escape}}
             {% else %}
-                Update: {{post.title | escape}}
+                [Blog] {{post.title | escape}}
             {%- endif -%}
           </a>
         </h3>
-
+        <img src="{{post.image}}" width="100" />
 
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

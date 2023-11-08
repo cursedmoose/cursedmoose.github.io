@@ -1,8 +1,0 @@
----
-layout: reward
-author: cursedmoose
-reward: "Sweet Nerevar Defeats Alduin"
-date:   2023-11-06 14:57:15 -0800
-category: reward
-image: "/assets/images/user/cursedmoose/Sweet Nerevar Defeats Alduin.png"
----

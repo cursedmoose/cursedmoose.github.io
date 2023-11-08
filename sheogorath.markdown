@@ -3,13 +3,14 @@ layout: default
 title: Sheogorath
 ---
 
-Yes it is I, Sheogorath. Behold my artwork!
+Yes it is I, Sheogorath. Behold my legally gray artwork!
 
 <h2>Recent Paintings</h2>
-<ul>
-  {% assign filtered_posts = site.categories.painting | where: post.author, sheogorath %}
+<p style="width: 1660px; margin-left: -430px">
+  {% assign filtered_posts = site.categories.painting %}
   {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.reward }}</a></li>
+    <a href="{{ post.url }}">
+      <img src="{{post.image}}" width="400" alt="{{post.reward}}" />
+    </a>
   {% endfor %}
-</ul>
-
+</p>

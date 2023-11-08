@@ -1,9 +1,0 @@
----
-layout: painting
-category: painting
-date:   2023-11-07 11:05:32 -0800
-author: sheogorath
-reward: "Unraveled jester dancing under moonlight"
-image: "/assets/images/assistant/sheogorath/6c17615d-9ca8-44f6-bdc5-87f867609a63.png"
----
-"Embrace madness in my new masterpiece, 'Unraveled Jester Dancing under Moonlight'. A playful painting: Warped whimsy under nocturnal glow…but who pulls the strings?"
