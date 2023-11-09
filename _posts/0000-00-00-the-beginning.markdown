@@ -2,7 +2,7 @@
 layout: post
 author: cursedmoose
 title:  "Introducing Hellbot"
-date:   2022-08-30 18:55:00 -0800
+date:   2023-08-30 18:55:00 -0800
 category: update
 ---
 This is the story of Hellbot.

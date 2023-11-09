@@ -2,7 +2,7 @@
 layout: post
 author: cursedmoose
 title:  Hellbot Deep Dive v1
-date:   2022-11-08 00:00:00 -0800
+date:   2023-11-08 00:00:00 -0800
 category: update
 ---
 A brief overview of how Hellbot started.
