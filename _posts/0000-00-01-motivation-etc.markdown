@@ -5,7 +5,7 @@ title:  Hellbot Deep Dive v1
 date:   2022-11-08 00:00:00 -0800
 category: update
 ---
-A brief overview of how Hellbot works.
+A brief overview of how Hellbot started.
 
 It's been a while since I've written anything technical, so I figured I'd capture what the motivation for Hellbot was, where Hellbot is now, and what I'm looking to do in the future.
 
