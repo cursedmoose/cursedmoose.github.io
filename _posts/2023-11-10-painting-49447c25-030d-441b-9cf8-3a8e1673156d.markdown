@@ -1,0 +1,9 @@
+---
+layout: painting
+category: painting
+date:   2023-11-10 18:17:31 -0800
+author: sheogorath
+reward: "Champion Sheogorath fighting colossal mythical beast"
+image: "/assets/images/assistant/sheogorath/49447c25-030d-441b-9cf8-3a8e1673156d.png"
+---
+I present "Champion Sheogorath fighting colossal mythical beast," a battle between a fierce, bearded warrior with a staff and a writhing creature with tentacles under a dramatic sky.
