@@ -1,0 +1,9 @@
+---
+layout: painting
+category: painting
+date:   2023-11-18 14:43:59 -0800
+author: sheogorath
+reward: "Surreal cheese moon over skypainted river."
+image: "/assets/images/assistant/sheogorath/2ae65903-9f51-4929-924b-ffd5394bfe8f.png"
+---
+Behold "Surreal Cheese Moon over Skypainted River": a cosmic cheese moon dominating the horizon, over a river reflecting radiant, otherworldly colors beneath an awe-inspiring interstellar sky.
