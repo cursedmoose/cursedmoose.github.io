@@ -5,5 +5,6 @@ date:   2023-11-18 14:23:10 -0800
 author: sheogorath
 reward: "Colorful Chameleon wearing jaunty jester's hat."
 image: "/assets/images/assistant/sheogorath/38dddae6-9e66-4bd3-a985-3a57277103c0.png"
+title: "Sheogorath's Art"
 ---
 "Colorful Chameleon wearing jaunty jester's hat": A vibrant chameleon perched on a branch, sporting a whimsical hat with rainbow-hued appendages and bells, set against a lush green backdrop.

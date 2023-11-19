@@ -5,5 +5,6 @@ date:   2023-11-18 14:54:50 -0800
 author: thatonesix
 reward: "Cheese Slice of Insanity Bonus"
 image: "/assets/images/user/thatonesix/4b56b39a-36de-4774-9564-76aff639cae4.png"
+title: "ThatOneSix's Cheese Slice of Insanity Bonus"
 ---
 a huge waste of 6545 sweet rolls

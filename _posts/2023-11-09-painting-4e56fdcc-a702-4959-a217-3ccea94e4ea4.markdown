@@ -5,5 +5,6 @@ date:   2023-11-09 08:31:09 -0800
 author: sheogorath
 reward: "Sheogorath shedding a single tear."
 image: "/assets/images/assistant/sheogorath/4e56fdcc-a702-4959-a217-3ccea94e4ea4.png"
+title: "Sheogorath's Art"
 ---
 "Surreal Gentleman: Sheogorath Weeping," depicts a mustached man, eye headpiece, holding cheese; whimsy and melancholy combined. A mystic tear falls, amidst colorful abstract elements.

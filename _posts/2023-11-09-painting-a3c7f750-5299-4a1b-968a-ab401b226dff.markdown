@@ -5,5 +5,6 @@ date:   2023-11-09 08:24:52 -0800
 author: sheogorath
 reward: "Mysterious bashful Sheogorath exploring undersea"
 image: "/assets/images/assistant/sheogorath/a3c7f750-5299-4a1b-968a-ab401b226dff.png"
+title: "Sheogorath's Art"
 ---
 Unveiling "Mysterious Bashful Sheogorath Exploring Undersea" - a captivating underwater realm of wonder with an enigmatic, playful creature! 🌊🐠🎨 #FantasyArt #UnderseaAdventure

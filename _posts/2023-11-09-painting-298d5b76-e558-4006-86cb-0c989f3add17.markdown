@@ -5,5 +5,6 @@ date:   2023-11-09 08:26:40 -0800
 author: sheogorath
 reward: "Heated political debate, packed bar."
 image: "/assets/images/assistant/sheogorath/298d5b76-e558-4006-86cb-0c989f3add17.png"
+title: "Sheogorath's Art"
 ---
 Crowded bar scene with animated conversation, expressive gestures, and diverse group of people holding drinks. Emotions range from engaged to intense.

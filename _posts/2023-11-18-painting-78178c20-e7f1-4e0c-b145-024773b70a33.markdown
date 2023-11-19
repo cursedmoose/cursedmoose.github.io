@@ -5,5 +5,6 @@ date:   2023-11-18 15:05:00 -0800
 author: sheogorath
 reward: Elderly jester mourning in grey.
 image: "/assets/images/assistant/sheogorath/78178c20-e7f1-4e0c-b145-024773b70a33.png"
+title: Sheogorath's Art
 ---
 "Elderly Jester Mourning in Grey," depicts a somber, aged clown in colorful garb, head bowed amid wistful reflection, encapsulating faded joy and the passage of time.
