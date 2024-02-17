@@ -11,7 +11,7 @@ Hellbot is watching me. 👀
 Ever since OpenAI announced their [Vision capabilities](https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html) in September 2023, I've been eager to add this functionality to Hellbot.
 More input is more hell is more better.
 
-Having the ability to feed Hellbot with screen capture information, possibly even eventually in real time, allows the AI to feel more li
+Having the ability to feed Hellbot with screen capture information, possibly even eventually in real time, allows the AI to feel more life-like and opens up huge new opportunities.
 
 ### The Vision API
 OpenAI released the [Vision API Preview](https://platform.openai.com/docs/guides/vision) on November 6. Big thanks to [OpenAI.Net](https://github.com/RageAgainstThePixel/OpenAI-DotNet) for quickly implementing an API wrapper, so instead of this:

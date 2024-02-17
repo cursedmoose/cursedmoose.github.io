@@ -1,0 +1,10 @@
+---
+layout: painting
+category: painting
+date:   2024-02-16 21:12:35 -0800
+author: sheogorath
+title: Sheogorath's "Sheogorath, eating cheese, in sunlight."
+reward: "Sheogorath, eating cheese, in sunlight."
+image: "/assets/images/assistant/sheogorath/ccf82b7d-d87c-4e1b-9a73-78081e9b1491.png"
+---
+The painting illustrates Sheogorath, a whimsical, exaggerated character, delighting in a piece of cheese under the vibrant glow of sunlight filtering through golden-skied clouds above a pastoral field.
