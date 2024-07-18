@@ -1,0 +1,10 @@
+---
+layout: reward
+category: reward
+date:   2024-07-18 16:26:32 -0800
+author: dexterkd
+title: DexterKD's Lose 1000 sweet rolls
+reward: Lose 1000 sweet rolls
+image: https://d2oxcyz4the36n.cloudfront.net/images/user/dexterkd/97f571a5-4705-48eb-9f88-3713ff6ea024.png
+---
+a huge waste of 1000 sweet rolls
